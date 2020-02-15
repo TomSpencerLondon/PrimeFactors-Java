@@ -18,6 +18,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1XlFhjQreDRkkIhpQ7x7hMhY4Tw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
@@ -97,7 +98,7 @@
       <workItem from="1581622018237" duration="392000" />
       <workItem from="1581622466340" duration="608000" />
       <workItem from="1581624953532" duration="243000" />
-      <workItem from="1581781108178" duration="2872000" />
+      <workItem from="1581781108178" duration="2997000" />
     </task>
     <servers />
   </component>
